@@ -6,5 +6,5 @@ About:
 -Nodejs
 -mongoDB database
 
-#clone this repo locally using the url[https://github.com/mawandahenry/react-native.git]
+#clone this repo locally using the url[https://github.com/mawandahenry/react-native.git]</br>
 -run npm install to install the dependencies
